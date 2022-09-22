@@ -1,0 +1,22 @@
+package uz.pdp.myroleandpermission.enums;
+
+public enum Permissions {
+    ADD_POST,
+    DELETE_POST,
+    UPDATE_POST,
+    DELETE_COMMENT,
+    DELETE_MY_COMMENT,
+    UPDATE_MY_COMMENT,
+    ADD_PERMISSION,
+    VIEW_PERMISSION,
+    DELETE_PERMISSION,
+    UPDATE_PERMISSION,
+    ADD_ROLE,
+    VIEW_ROLE,
+    DELETE_ROLE,
+    UPDATE_ROLE,
+    ADD_USER,
+    DELETE_USER,
+    UPDATE_USER,
+    VIEW_USERS
+}
